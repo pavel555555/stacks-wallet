@@ -32,5 +32,6 @@
   ],
   "cSpell.ignoreWords": [
     "woff"
-  ]
+  ],
+  "editor.formatOnSave": true
 }
